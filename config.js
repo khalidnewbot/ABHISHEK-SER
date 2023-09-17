@@ -47,14 +47,14 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.botname = '𝙰𝙱𝙷𝙸𝚂𝙷𝙴𝙺-𝚂𝙴𝚁'
+global.botname = 'KHALID-FAROOQ'
 global.premium = 'true'
-global.packname = '𝙰𝙱𝙷𝙸𝚂𝙷𝙴𝙺-𝚂𝙴𝚁🎯𝙰𝙱𝙷𝙸𝚂𝙷𝙴𝙺-𝚂𝚄𝚁𝙴𝚂𝙷☘️' 
-global.author = 'ABHISHEK SURESH' 
-global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/abhishek_ser\n' 
-global.dygp = 'https://chat.whatsapp.com/BOLb0ICN3sAJ5dloRBw5VD'
-global.fgsc = 'https://github.com/AbhishekSuresh2/ABHISHEK-SER' 
-global.fgyt = 'https://youtube.com/@comedymelodych8468'
+global.packname = 'KHALID-FAROOQ🎯KHALID-FAROOQ☘️' 
+global.author = 'KHALID-FAROOQ' 
+global.igfg = '▢ Follow to Sir KHALID on Instagram\nhttps://instagram.com/khalid_farooq_s?igshid=NzZlODBkYWE4Ng==' 
+global.dygp = 'https://chat.whatsapp.com/HwstjJqAbk82xPItZNLVrw'
+global.fgsc = ' ▢ Check Khalid webiste : \n khalid-programmer.vercel.app' 
+global.fgyt = ' Sorry Sir Khalid do not want to provid you this link\n'
 global.fgpyp = 'https://youtube.com/@comedymelodych8468'
 global.fglog = 'https://replicate.delivery/pbxt/QbP6Fh3ZXwKON9SCB70ERGwwgeeSbztwKIOIzhUeXFkwnFHiA/out.png' 
 
@@ -62,7 +62,7 @@ global.fglog = 'https://replicate.delivery/pbxt/QbP6Fh3ZXwKON9SCB70ERGwwgeeSbztw
 global.imagen1 = fs.readFileSync('./src/Abhi.jpg')
 
 //Dont Edit Danger Zone⚠️
-global.wait = '*⌛ _Please Wait..._*'
+global.wait = '*⌛ _Please Wait..._\n Sir Khalid is on Working..*'
 global.rwait = '⌛'
 global.dmoji = '🤭'
 global.done = '✅'
